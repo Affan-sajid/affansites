@@ -11,7 +11,7 @@ author: Affan sajid
 tags:
   - nextjs
   - tailwind
-draft: true
+draft: false
 ---
 
   /images/image-placeholder.png

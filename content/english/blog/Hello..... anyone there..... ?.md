@@ -29,8 +29,6 @@ I don't know in what format I would upload contents here, daily diary type or to
 
 
 so until next time. peace out ✌️
-
-
-!![Image Description](/images/HEIC%20to%20PNG%204832.png)
+![Image Description](/images/HEIC%20to%20PNG%204832.png)
 
 
