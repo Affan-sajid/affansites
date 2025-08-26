@@ -27,9 +27,10 @@ so in here i will share my journey and some of my crazy stories that i had previ
 
 I don't know in what format I would upload contents here, daily diary type or topic type or maybe stories . but i do wanna continue this. 
 
+
 so until next time. peace out ✌️
-![[HEIC to JPG 4832.jpg]]
 
 
+!![Image Description](/images/HEIC%20to%20PNG%204832.png)
 
 
