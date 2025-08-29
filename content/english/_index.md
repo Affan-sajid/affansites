@@ -1,8 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Different by choice. Building the future without waiting for permission."
-  content: "I share what I'm learning from building AI, hardware, and startups outside the system — raw, unpolished, and real."
+  title: "Wanna see what happens when a teenager refuses the system?"
+  content: "I’m 16, building AI, hardware, and startups outside the rules.
+It’s raw, messy, and real — but that’s the point."
   image: "/images/banner.png"
   button:
     enable: true
@@ -13,7 +14,7 @@ banner:
 features:
   - title: "Why This Blog Is Different"
     image: "/images/service-1.png"
-    content: "I’m 16, unschooling my way into AI and startups — building and sharing experiments that don’t follow the script."
+    content: "I’m 16, choosing the real world over the classroom, building and sharing experiments that don’t follow the script"
     bulletpoints:
       - "Unschooling Perspective: Learning by doing, not by textbooks."
       - "Cross-Discipline Builder: AI, hardware, software — combined for real-world impact."

@@ -2,7 +2,7 @@
 title: "Hey, I’m Affan!"
 meta_title: "About"
 description: "Unschooling my way into AI, hardware, and startups — building differently at 16."
-image: "/images/avatar.png"
+image: "/images/affan-pfp-orange.png"
 draft: false
 ---
 
