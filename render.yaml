@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: affansites
+    env: static
+    buildCommand: hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic
+    staticPublishPath: public
+    envVars:
+      - key: HUGO_VERSION
+        value: 0.144.0
