@@ -2,8 +2,10 @@ services:
   - type: web
     name: affansites
     env: static
-    buildCommand: hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic
+    buildCommand: yarn project-setup && yarn build
     staticPublishPath: public
     envVars:
       - key: HUGO_VERSION
-        value: 0.144.0
+        value: 0.147.3
+      - key: GO_VERSION
+        value: 1.24.2
