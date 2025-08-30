@@ -2,9 +2,10 @@
 title: The Decision That Seemed Perfect (But Wasn't)
 meta_title: ""
 description:
-date:
+date: 2025-08-07
 image:
 categories:
+  - daily diaries
 author: Affan sajid
 tags:
 draft: false
